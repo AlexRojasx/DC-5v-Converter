@@ -2,13 +2,14 @@
 
 <h2>Project Description:</h2>
 
-The DC/DC 5v converter project is aimed to create a simple and easy way to power a usb device. The primary focus was for this device to be able to power an Orange Pi off of a Rev Robotics PDH (Power Distribution Hub) for simple integration in a FRC Robot. This simple PCB board design was used to deepen understanding of circit design, PCB layout, and power electronics.
+The DC/DC 5v converter project is aimed to create a simple and easy way to power a usb device. The primary focus was for this device to be able to power an Orange Pi off of a Rev Robotics PDH (Power Distribution Hub) for simple integration in a FRC Robot. This simple PCB board design was used to deepen understanding of circit design, PCB layout, and PCB manufacturing.
 
 <h2>Skills Learned:</h2>
 
--PCB Board Design and Layout  
+-PCB Design and Layout  
 -How to Utilize Bypass Capacitors  
--understanding of component selection  
+-Understanding of component selection  
+-PCB Manufacturing
 
 <h2>Tools Used:</h2>
 
