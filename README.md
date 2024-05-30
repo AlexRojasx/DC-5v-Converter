@@ -1,8 +1,8 @@
+<h1>DC/DC-5v-Converter</h1>
 
-#DC/DC-5v-Converter
 <h2>Project Description:</h2>
 
-This DC/DC 5v converter project is aimed to create a simple and easy way to power a usb device. The primary focus was for this device to be able to power an Orange Pi off of a Rev Robotics PDH (Power Distribution Hub) for simple integration in a FRC Robot. This simple PCB board design was used to deepen understanding of circit design, PCB layout, and power electronics.
+The DC/DC 5v converter project is aimed to create a simple and easy way to power a usb device. The primary focus was for this device to be able to power an Orange Pi off of a Rev Robotics PDH (Power Distribution Hub) for simple integration in a FRC Robot. This simple PCB board design was used to deepen understanding of circit design, PCB layout, and power electronics.
 
 <h2>Skills Learned:</h2>
 
@@ -12,10 +12,9 @@ This DC/DC 5v converter project is aimed to create a simple and easy way to powe
 
 <h2>Tools Used:</h2>
 
-  -Kicad for PCB Layout and Design  
-  -Oscilloscope for analyzing noise and PCB trobleshooting  
+-Kicad for PCB Layout and Design  
+-Oscilloscope for analyzing noise and PCB trobleshooting  
 
-  
 <h2>Screenshots:</h2>
 
 <b>Schematic:<b>
