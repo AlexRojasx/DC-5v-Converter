@@ -18,10 +18,12 @@ The DC/DC 5v converter project is aimed to create a simple and easy way to power
 
 <h2>Screenshots:</h2>
 
-<b>Schematic:<b>
+<b>Schematic:</b>
 ![Screenshot 2024-05-29 174604](https://github.com/AlexRojasx/DC-5v-Converter/assets/116775585/69c431ad-4705-4799-8331-c287a15f6997)
 
-<b>PCB Layout:<b>
+The circut utilized a LM340s-5.0 fixed power regulator, which required a custom symbol and footprint to be made. The LM340 requires a 0.22uF bypass capacitor to filter any noise that could be caused from external influences, as well as a Skchottcy diode for reverse polarity protection.
+
+<b>PCB Layout:</b>
 ![image](https://github.com/AlexRojasx/DC-5v-Converter/assets/116775585/4ca510a2-1d68-46a5-90e8-28dfc4d35848)
 
 <h2>Datasheets:</h2>
