@@ -14,6 +14,8 @@ The DC/DC 5v converter project is aimed to create a simple and easy way to power
 <h2>Tools Used:</h2>
 
 -Kicad for PCB Layout and Design  
+-Reflow Oven
+-Soldering Iron
 -Oscilloscope for analyzing noise and PCB trobleshooting  
 
 <h2>Screenshots:</h2>
@@ -30,6 +32,8 @@ For the layout, I utilized copper pours connected to ground on both sides for an
 
 <b>PCB Assembly:</b>
 ![20240628_210202](https://github.com/AlexRojasx/DC-5v-Converter/assets/116775585/34638b3f-a545-43a0-bec8-a89dc57b157f)
+
+For the assembly of the PCB I used PCBWay to manufacture the empty circut board while I ordered the parts seperatly of off Mouser. Utilizing an Infared reflow oven, I assembled the SMD components on the PCB and hand soldering for the through hole components.
 
 <h2>What Could be Improved:</h2>
 
